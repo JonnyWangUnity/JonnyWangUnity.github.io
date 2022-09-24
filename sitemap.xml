@@ -11,6 +11,12 @@
     <loc>https://example.com/post/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.com/tags/lua/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/p/lua%E5%9F%BA%E7%A1%80%E7%AF%87/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/tags/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>

@@ -96,6 +96,15 @@
 </description>
         </item>
         <item>
+        <title>lua基础篇</title>
+        <link>https://example.com/p/lua%E5%9F%BA%E7%A1%80%E7%AF%87/</link>
+        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/lua%E5%9F%BA%E7%A1%80%E7%AF%87/</guid>
+        <description>&lt;p&gt;什么是lua,用什么编辑器才好用呢&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>我的第一篇博客</title>
         <link>https://example.com/p/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>

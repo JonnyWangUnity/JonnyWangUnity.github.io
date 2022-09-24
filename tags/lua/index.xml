@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>lua on 彼岸流年的博客</title>
+        <link>https://example.com/tags/lua/</link>
+        <description>Recent content in lua on 彼岸流年的博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/lua/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>lua基础篇</title>
+        <link>https://example.com/p/lua%E5%9F%BA%E7%A1%80%E7%AF%87/</link>
+        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/lua%E5%9F%BA%E7%A1%80%E7%AF%87/</guid>
+        <description>&lt;p&gt;什么是lua,用什么编辑器才好用呢&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
