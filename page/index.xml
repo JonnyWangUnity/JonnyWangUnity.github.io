@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on 彼岸流年的博客</title>
+        <link>https://example.com/page/</link>
+        <description>Recent content in Pages on 彼岸流年的博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Search</title>
+        <link>https://example.com/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>简介</title>
+        <link>https://example.com/%E7%AE%80%E4%BB%8B/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/%E7%AE%80%E4%BB%8B/</guid>
+        <description>&lt;h2 id=&#34;关于我&#34;&gt;关于我：&lt;/h2&gt;
+&lt;p&gt;这个人他不懒，想写的很多，也写了很多，只是写一堆东西又删了……&lt;/p&gt;
+&lt;h4 id=&#34;联系方式&#34;&gt;联系方式：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;E-mail：317392507@qq.com&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;关于本博客&#34;&gt;关于本博客&lt;/h2&gt;
+&lt;p&gt;这个站点见证了我在程序员这条道路上变秃变强的经历。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;所有文章均为我学习和记录所用&lt;/li&gt;
+&lt;li&gt;如果有侵犯到您权益的地方，请及时联系我&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
